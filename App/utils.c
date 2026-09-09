@@ -41,7 +41,7 @@ void TaskSelect(void)
 	}
 	else
 	{
-		if(wait_flag == 0)
+		if(wait_flag == 1)
 		{
 			switch(task_num)
 			{
